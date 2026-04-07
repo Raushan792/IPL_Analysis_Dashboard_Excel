@@ -24,7 +24,7 @@
 
 | 🔷 Team Performance Dashboard | 🔷 Player Performance Dashboard |
 |:---:|:---:|
-| ![Team](screenshots/team_dashboard.png) | ![Player](screenshots/player_dashboard.png) |
+| ![Team](screenshots/team_dashboard.png) | ![Player](Player performance Dashboard.png) |
 
 > 📌 *Upload your screenshots to the `screenshots/` folder and they'll render here automatically.*
 
