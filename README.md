@@ -20,16 +20,6 @@
 
 ----
 
-## 📸 Dashboard Preview
-
-| 🔷 Team Performance Dashboard | 🔷 Player Performance Dashboard |
-|:---:|:---:|
-| ![Team](screenshots/Team performance Dashboard.png) | ![Player](Player performance Dashboard.png) |
-
-> 📌 *Upload your screenshots to the `screenshots/` folder and they'll render here automatically.*
-
----
-
 ## 🎯 What This Project Does
 
 This project transforms raw IPL match data into a **fully interactive analytics dashboard** — built entirely in Excel using enterprise-grade techniques:
