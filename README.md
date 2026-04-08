@@ -20,7 +20,7 @@
 
 ----
 
-## 🎯 What This Project Does--
+## 🎯 What This Project Does---
 
 This project transforms raw IPL match data into a **fully interactive analytics dashboard** — built entirely in Excel using enterprise-grade techniques:
 
